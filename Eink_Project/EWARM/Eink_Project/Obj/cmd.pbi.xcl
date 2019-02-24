@@ -1,16 +1,16 @@
-"C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\Src\cmd.c"
+"D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\Src\cmd.c"
 -std=c99
 -ferror-limit=100
 -I
-C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\EWARM/../Inc
+D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\EWARM/../Inc
 -I
-C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc
+D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc
 -I
-C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc/Legacy
+D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\EWARM/../Drivers/STM32L0xx_HAL_Driver/Inc/Legacy
 -I
-C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\EWARM/../Drivers/CMSIS/Device/ST/STM32L0xx/Include
+D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\EWARM/../Drivers/CMSIS/Device/ST/STM32L0xx/Include
 -I
-C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\EWARM/../Drivers/CMSIS/Include
+D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\EWARM/../Drivers/CMSIS/Include
 -I
 D:\Software\IAR Systems\Embedded Workbench 7.5\arm\CMSIS\Include
 -I
@@ -18,15 +18,15 @@ D:\Software\IAR Systems\Embedded Workbench 7.5\arm\inc
 -I
 D:\Software\IAR Systems\Embedded Workbench 7.5\arm\inc\c
 -I
-C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\Inc
+D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\Inc
 -I
-C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\Drivers\STM32L0xx_HAL_Driver\Inc
+D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\Drivers\STM32L0xx_HAL_Driver\Inc
 -I
-C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\Drivers\STM32L0xx_HAL_Driver\Inc\Legacy
+D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\Drivers\STM32L0xx_HAL_Driver\Inc\Legacy
 -I
-C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\Drivers\CMSIS\Device\ST\STM32L0xx\Include
+D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\Drivers\CMSIS\Device\ST\STM32L0xx\Include
 -I
-C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\Drivers\CMSIS\Include
+D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\Drivers\CMSIS\Include
 -I
 D:\Software\IAR Systems\Embedded Workbench 7.5\arm\CMSIS\Include
 -DUSE_HAL_DRIVER=1

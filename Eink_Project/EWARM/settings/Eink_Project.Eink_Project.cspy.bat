@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"D:\Software\IAR Systems\Embedded Workbench 7.5\common\bin\cspybat" -f "C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\EWARM\settings\Eink_Project.Eink_Project.general.xcl" --backend -f "C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\EWARM\settings\Eink_Project.Eink_Project.driver.xcl" 
+"D:\Software\IAR Systems\Embedded Workbench 7.5\common\bin\cspybat" -f "D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\EWARM\settings\Eink_Project.Eink_Project.general.xcl" --backend -f "D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\EWARM\settings\Eink_Project.Eink_Project.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"D:\Software\IAR Systems\Embedded Workbench 7.5\common\bin\cspybat" -f "C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\EWARM\settings\Eink_Project.Eink_Project.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\TANG\Desktop\EINK_Rev4_V1_0_0_20190206\Eink_Project\EWARM\settings\Eink_Project.Eink_Project.driver.xcl" 
+"D:\Software\IAR Systems\Embedded Workbench 7.5\common\bin\cspybat" -f "D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\EWARM\settings\Eink_Project.Eink_Project.general.xcl" "--debug_file=%~1" --backend -f "D:\Work\Eink\Eink_Project_Git\Feature_A\Eink_Project\Eink_Project\EWARM\settings\Eink_Project.Eink_Project.driver.xcl" 
 
 @echo off 
 :end
